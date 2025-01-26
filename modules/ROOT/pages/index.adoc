@@ -1,0 +1,5 @@
+= Document
+
+We can find any document here
+
+** xref:oop.adoc[OOP basics]
